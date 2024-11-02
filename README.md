@@ -1,2 +1,4 @@
+![VerusCraft](resources/veruscraft.jpg?raw=true)
 # VerusCraft
-A simple minecraft server that allows you to earn verus coins just by playing!
+
+A minecraft server that allows you to play different gamemodes and earn Verus (crypto) by tracking your movements in the game!
