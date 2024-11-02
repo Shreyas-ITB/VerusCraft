@@ -1,0 +1,12 @@
+name: VerusCraft
+version: '1.0-SNAPSHOT'
+main: net.mplugins.fiverr.veruscraft.VerusCraft
+api-version: 1.19
+
+commands:
+  wallet:
+    permission: veruscraft.wallet
+    description: Show your playtime along with how much VRSC you have earned
+  linkwallet:
+    permission: veruscraft.linkwallet
+    description: Link your wallet with your Minecraft-Account
